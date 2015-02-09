@@ -1,0 +1,2 @@
+serviceClass: iotoutletmonitor.client.GreetingService
+path: 14EEF1627CD0ED4B51B5DC428C6A42B8.gwt.rpc
