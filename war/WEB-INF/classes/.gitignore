@@ -1,0 +1,9 @@
+/log4j.properties
+/META-INF/*
+../lib/*
+../logging.properties
+.settings/*
+.classpath
+.project
+.bin/*
+src/META-INF/*
