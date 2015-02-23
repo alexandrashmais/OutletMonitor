@@ -123,6 +123,11 @@
 		</div>
 	</footer>
 
+	<%--	
+<div class="row">
+	<div class="small-12 columns"> <p></p></div>
+	<div class="small-12 columns"> <p>welcome to our page</p></div>
+</div> --%>
 
 
 </body>

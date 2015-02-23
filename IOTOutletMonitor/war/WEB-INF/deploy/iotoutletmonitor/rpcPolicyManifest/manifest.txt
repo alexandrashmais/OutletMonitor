@@ -1,2 +1,6 @@
 # Module iotoutletmonitor
 # RPC service class, partial path of RPC policy file
+<<<<<<< HEAD
+iotoutletmonitor.client.GreetingService, 14EEF1627CD0ED4B51B5DC428C6A42B8.gwt.rpc
+=======
+>>>>>>> branch 'master' of git@github.com:julianaleon/OutletMonitor.git
